@@ -15,5 +15,5 @@ func main() {
 	sm := http.NewServeMux()
 	sm.Handle("/", hh)
 
-	http.ListenAndServe(":9090", nil)
+	http.ListenAndServe(":9090", sm)
 }
