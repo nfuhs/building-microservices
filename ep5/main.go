@@ -8,7 +8,7 @@ import (
 	"os/signal"
 	"time"
 
-	"github.com/nfuhs/building-microservices/ep4/handlers"
+	"github.com/nfuhs/building-microservices/ep5/handlers"
 )
 
 func main() {

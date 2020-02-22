@@ -6,7 +6,7 @@ import (
 	"regexp"
 	"strconv"
 
-	"github.com/nfuhs/building-microservices/ep4/data"
+	"github.com/nfuhs/building-microservices/ep5/data"
 )
 
 type Products struct {
