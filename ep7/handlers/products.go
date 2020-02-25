@@ -8,7 +8,7 @@ import (
 	"strconv"
 
 	"github.com/gorilla/mux"
-	"github.com/nfuhs/building-microservices/ep6/data"
+	"github.com/nfuhs/building-microservices/ep7/data"
 )
 
 type Products struct {

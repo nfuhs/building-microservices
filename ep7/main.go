@@ -10,7 +10,7 @@ import (
 
 	"github.com/gorilla/mux"
 
-	"github.com/nfuhs/building-microservices/ep6/handlers"
+	"github.com/nfuhs/building-microservices/ep7/handlers"
 )
 
 func main() {
